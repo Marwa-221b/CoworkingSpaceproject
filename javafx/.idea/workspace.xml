@@ -5,24 +5,64 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1a38d9b9-6069-4d69-8bba-b9e790a0bea8" name="Changes" comment="">
+<<<<<<< .merge_file_a03476
       <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+>>>>>>> .merge_file_a23172
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+<<<<<<< .merge_file_a03476
+=======
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+>>>>>>> .merge_file_a23172
   <component name="ProjectId" id="2pq2MbnkMgyr84VD3gUbln3YfW0" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< .merge_file_a03476
+=======
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.HelloApplication.executor": "Run",
+    "Application.demo.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "slotsANDdataBase",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "F:/OOP_Project/CoworkingSpaceproject/javafx",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+>>>>>>> .merge_file_a23172
   <component name="RunManager">
     <configuration name="demo" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="com.example.demo.HelloApplication" />
