@@ -12,7 +12,8 @@ public class slots {
     private int Fees;
     public slots(int startTime,int endTime,String date,String RoomType){
         this.date = LocalDate.parse(date, DateTimeFormatter.ofPattern("dd MM uuuu"));
-        this.StartTime=startTime;        this.EndTime=endTime;
+        this.StartTime=startTime;
+        this.EndTime=endTime;
         this.RoomType=RoomType;
     }
     public boolean isWithinSameMonth(){

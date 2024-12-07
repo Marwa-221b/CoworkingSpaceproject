@@ -6,6 +6,13 @@ public abstract class Users {
     protected String email;
     protected String PhoneNumber;
 
+    public Users() {}
+
+    public Users(String name, String password) {
+        this.name = name;
+        this.password = password;
+    }
+
     public Users(String name, String password, String email, String phoneNumber) {
         this.name = name;
         this.password = password;
