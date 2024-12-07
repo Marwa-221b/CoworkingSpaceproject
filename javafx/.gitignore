@@ -1,4 +1,3 @@
-.idea/
-javafx/.idea/compiler.xml
-javafx/.idea/jarRepositories.xml
-javafx/.idea/workspace.xml
+.idea/compiler.xml
+.idea/jarRepositories.xml
+.idea/workspace.xml
