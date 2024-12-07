@@ -2,5 +2,6 @@
 /shelf/
 /workspace.xml
 /compiler.xml
-/mixc.xml
+/misc.xml
 /jarRepositories.xml
+/runConfigurations.xml
